@@ -1,9 +1,6 @@
-img {
-    width: 200px;
-}
 body {
     text-align: center;
-    font-family: 'Arial';
-    background: red;
+    font-family: 'Ariel';
+    background: image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaM1dpWAF5hIbru85yWrSz4UGtd-1zGJUprtafoCVDEw&s=10");
     color: blue;
 }
