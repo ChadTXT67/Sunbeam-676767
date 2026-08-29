@@ -1,0 +1,22 @@
+body {
+   
+    margin: 0px, 700px;
+    p {text-align: center;}
+    
+    #background: rgb(159, 232, 226);
+    p {color: white;}
+    p {font-family:'Calibri';}
+    p {background-color: cadetblue;}
+   
+    h2 {color: white;}
+    h2 {font-family:'franklin gothic medium';}
+    h4 {color: white;}
+    h4 {font-family: 'franklin gothic medium';}
+   
+    background-image: url("https://static.wikia.nocookie.net/epic-minigame/images/5/50/Wiki-background/revision/latest?cb=20210807120851");
+    background-image: no-repeat;
+    background-size: 1600px
+  
+
+}
+body{text-align: center;}
