@@ -1,6 +1,16 @@
 body {
+    margin: 10px 200px;
     text-align: center;
-    font-family: 'Ariel';
-    background: image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaM1dpWAF5hIbru85yWrSz4UGtd-1zGJUprtafoCVDEw&s=10");
-    color: blue;
+    background: #1E2050;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQJamxG_f1Rf9uZpK4nU-hkW9350_9Ppu3N0T3VH4lw&s=10");
+    background-repeat: no-repeat;
+    background-position: 0px 900px;
+
+    .img1{
+        width: 500px;
+    }
+    span{
+        color: #d8d69b;
+    }
+    background-size: 1000px;
 }
