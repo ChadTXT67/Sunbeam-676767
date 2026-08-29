@@ -1,10 +1,16 @@
 img {
-    width: 500px;
+    width: 250px;
+    align: center;
 }
-body {
-    text-align: center;
-    font-family: Arial;
-    background: blue;
-    colour: black;
+body{
+    font-family: Callibri;
+  background-image: url('https://drkwaitingroom.com/wp-content/uploads/2021/01/zeldabreathbanner.png');
+  background-repeat: no-repeat;
+  background-position: top right;
+    background-size: 1175px;
+  background-color: #303466;
+  color: #fffcc7
+ 
+
 }
 
